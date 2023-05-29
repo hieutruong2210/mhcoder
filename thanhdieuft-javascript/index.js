@@ -45,22 +45,22 @@ tick();
 
 function Youtube() {
   setTimeout(function() {
-    window.open('https://www.youtube.com/channel/UCiSP9FWliPIwG-w59dJdilQ', 'ultimate')},
+    window.open('https://youtube.com/@hieuhieud2689', 'ultimate')},
   100);
 }
 function Facebook() {
   setTimeout(function() {
-    window.open('https://www.facebook.com/100035052735014', 'ultimate')},
+    window.open('https://www.facebook.com/mhiiuu', 'ultimate')},
   100);
 }
 function Discord() {
   setTimeout(function() {
-    window.open('https://dsc.bio/WusThanhDieu', 'ultimate')},
+    window.open('https://dsc.bio/MinhHieu', 'ultimate')},
   100);
 }
 function Telegram() {
   setTimeout(function() {
-    window.open('https://t.me/ThanhDieuChannel', 'ultimate')},
+    window.open('https://t.me/mhieuuuaz', 'ultimate')},
   100);
 }
 
